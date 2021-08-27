@@ -4,7 +4,10 @@ This is a music player app that plays music from the phone storage or external s
 ![alt text](vmusicdark.jpg)
 
 
+![alt text](vmusiclist.jpg)
+
+
 ![alt text](vmusiclight.jpg)
 
 
-![alt text](musiclist.jpg)
+
